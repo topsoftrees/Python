@@ -1,4 +1,2 @@
-# LearnPython
-
-Goal:
-11/22/20: Learn the basics of Python
+# Python
+- Documentation: https://docs.python.org/3/library/index.html
