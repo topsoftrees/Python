@@ -1,4 +1,5 @@
 # Python
-- Documentation: https://docs.python.org/3/library/index.html
-
-- https://www.youtube.com/watch?v=jAb7wN7cT_4&list=PLTgRMOcmRb3NEFCKoFQPuz7v_gu_66kEi
+I don't have any experience with Python but I do with C++ and Java. I might breeze through the Python documentation but not go too in depth. Some of the projects I'm hoping to work on are
+- Go through the socket module
+- Go through the os module
+- Create a network analyzer
