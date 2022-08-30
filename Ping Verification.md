@@ -51,7 +51,7 @@ while host <= 20:
         print((ip) + " down, host unreachable.")
     host= host + 1
 ```
-I'm not too familiar with the popen module so I had to play around with the formatting of the ping. 
+I'm not too familiar with the popen module so I had to play around with the formatting of the ping. Overall, this was very simple. 
 
 ## Helpful Resources
 - [https://docs.python.org/3/library/os.html#os.popen](https://docs.python.org/3/library/os.html#os.popen)
